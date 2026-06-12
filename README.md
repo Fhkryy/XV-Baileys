@@ -103,7 +103,7 @@ await Fhkryy.sendMessage(m.chat, {
         optionName: "FhkryX Ganteng"
       },
       {
-        optionName: "Binzz Eek"
+        optionName: "FhkryX Hensom"
       }
     ],
     newsletter: {
